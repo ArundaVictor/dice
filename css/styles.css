@@ -1,5 +1,6 @@
 #hold{
   text-align: center;
+  display: none;
 }
 
 #p2{
@@ -10,5 +11,5 @@
 }
 h1,h2,p{
   color: #882020;
-  
+
 }
