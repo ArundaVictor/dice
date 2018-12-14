@@ -1,6 +1,6 @@
 # Pig Dice Game
 
-#### The web page is used to track the various types of triangles by evaluating the sides. {3/12/2018}
+#### 
 
 #### By **Arunda Victor Oyugi**
 
@@ -15,7 +15,7 @@
 ## Behaviour driven Development (BDD)
 *
 *
-* 
+*
 
 
 ## Known Bugs
