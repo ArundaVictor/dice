@@ -19,12 +19,10 @@ The web page hosts the pig dice game. The game involves two players(Player 1 and
 | User clicks start game              | The game console appears                  |
 | Player rolls dice              | A random number from 1-6 is generated                  |
 | If player rolls a 1              | An alert telling the player they rolled a 1 and should forfeit turn                  |
-| If the player rolls a number from 2-6               | The total is added to the player's score                  |
-|               |                   |
-|               |                   |
-|               |                   |
-|               |                   |
-|               |                   |
+| If the player rolls a number from 2-6               | The total is added to the player's score and gets another turn to roll                  |
+|The player holds the game               | The turns goes to the other player and the total score is displayed                  |
+| Player gets to 100 total points               | The player wins the game                  |
+| Reload the page              | A new game starts                  |
 
 ## Known Bugs
 There are no known bugs as at now but in case of any you may find please contact me.
