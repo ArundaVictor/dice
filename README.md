@@ -16,10 +16,10 @@ The web page hosts the pig dice game. The game involves two players(Player 1 and
 |#User inputs   |  #Example outputs |         
 |---------------|-------------------|
 |When it receives:               | It should return:                  |
-|               |                   |
-|               |                   |
-|               |                   |
-|               |                   |
+| User clicks start game              | The game console appears                  |
+| Player rolls dice              | A random number from 1-6 is generated                  |
+| If player rolls a 1              | An alert telling the player they rolled a 1 and should forfeit turn                  |
+| If the player rolls a number from 2-6               | The total is added to the player's score                  |
 |               |                   |
 |               |                   |
 |               |                   |
