@@ -1,3 +1,4 @@
+// Business logic
 var player1 = "";
 var player2 = "";
 var rollDice = function() {
@@ -13,7 +14,7 @@ function Play() {
 Play.prototype.roll1 = function() {
   if (this.roll === 1) {
   this.tempScore = 0;
-  alert("Sorry you rolled a 1! Your turn is over!");
+  alert("You rolled a 1! Your turn is over!");
 
   } else {
   this.tempScore += this.roll;
@@ -31,7 +32,7 @@ Play.prototype.hold = function() {
 
     }
   }
-
+// User Interface
 $(document).ready(function() {
   $(".button").click(function() {
   player1 = new Play(true);
