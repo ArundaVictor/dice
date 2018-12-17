@@ -27,7 +27,7 @@ The web page hosts the pig dice game. The game involves two players(Player 1 and
 ## Known Bugs
 There are no known bugs as at now but in case of any you may find please contact me.
 ## Technologies Used
-The language used to create the web page is HTML and JavaScript and the application used to write the code is an application known as Atom.
+The languages used to create the web page is HTML, CSS and JavaScript and the application used to write the code is an application known as Atom.
 ## Support and contact details
 In case of any questions or feedback or clarifications, you can reach me at:
 victoroyugi31@gmail.com
