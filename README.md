@@ -13,10 +13,18 @@ The web page hosts the pig dice game. The game involves two players(Player 1 and
 * Internet connection is required
 
 ## Behaviour driven Development (BDD)
-*
-*
-*
-
+|#User inputs   |  #Example outputs |         
+|---------------|-------------------|
+|When it receives:               | It should return:                  |
+|               |                   |
+|               |                   |
+|               |                   |
+|               |                   |
+|               |                   |
+|               |                   |
+|               |                   |
+|               |                   |
+|               |                   |
 
 ## Known Bugs
 There are no known bugs as at now but in case of any you may find please contact me.
