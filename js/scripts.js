@@ -32,6 +32,7 @@ Play.prototype.hold = function() {
 
     }
   }
+  
 // User Interface
 $(document).ready(function() {
   $(".button").click(function() {
